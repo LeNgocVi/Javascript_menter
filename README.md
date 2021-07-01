@@ -52,4 +52,4 @@ Checkout [Video Tutorials](https://github.com/shailesh-ladumor/infyom-laravel-ge
 
 # Javascript_menter
 
-gjgj
+cay
